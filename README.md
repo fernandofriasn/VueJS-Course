@@ -1,2 +1,2 @@
 # VueJS-Course
- VueJS
+Learning VueJS
